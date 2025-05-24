@@ -2,7 +2,7 @@
 
 ## This project uses Typescript, Redux, MUI and public API to get user details.
 
-## This project was intentionally named as user-management instead so as to keep terminology generic and make it reusable for alternatives such as <'employee' || 'student'>-management
+## This project was intentionally named as user-management to keep terminology generic and make it reusable for alternatives such as <'employee' || 'student'>-management
 
 ## Available Scripts
 
