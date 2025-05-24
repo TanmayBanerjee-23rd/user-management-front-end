@@ -1,0 +1,21 @@
+.appBg {
+    background-color: #ffeae09a
+}
+
+.flex-col-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+@media (min-width: 1200px) {
+    .css-45zjji-MuiContainer-root {
+        max-width: unset !important;
+    }
+}
